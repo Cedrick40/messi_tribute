@@ -2,7 +2,7 @@
 
 A static, responsive, single-page tribute to Lionel Messi, built for Task 1 (Tribute Page) of my Web Development internship.
 
-**Live page:** YOUR_GITHUB_PAGES_LINK_HERE
+**Live page:** https://cedrick40.github.io/messi_tribute/
 
 ## About the project
 
