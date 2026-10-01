@@ -198,9 +198,3 @@ footer p {
     padding: 25px 20px;
   }
 }
-@media (max-height: 500px) {
-  figure {
-    height: 200px;
-    min-height: 0;
-  }
-}
